@@ -1,0 +1,10 @@
+==== Struk Pembelian ====
+ID Pelanggan: 9933
+Nama Pelanggan: tresno
+Email Pelanggan: tresno@gmail.com
+HP yang dibeli:
+ID HP: 123456
+Merk: Sumsang
+Tipe: ezet
+Harga: 2.000.000
+
